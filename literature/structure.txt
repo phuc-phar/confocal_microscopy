@@ -1,0 +1,16 @@
+microscopy_app/
+│
+├── app.py
+├── modules/
+│    ├── optics.py
+│    ├── resolution.py
+│    ├── fluorescence.py
+│    ├── confocal.py
+│    ├── fret.py
+│
+├── utils/
+│    ├── image_simulation.py
+│    ├── formulas.py
+│
+├── data/
+│

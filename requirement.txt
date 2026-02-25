@@ -1,0 +1,6 @@
+streamlit
+numpy
+matplotlib
+PIL
+scipy
+mpl_toolkits
