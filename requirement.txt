@@ -4,3 +4,4 @@ matplotlib
 PIL
 scipy
 mpl_toolkits
+matplotlib.pyplot
